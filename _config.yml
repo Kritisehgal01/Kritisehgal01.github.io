@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: h 
+title: Kriti SeHGAL 
 
 # Your name to show in the footer
 author: Kriti Sehgal
@@ -21,10 +21,12 @@ author: Kriti Sehgal
 
 navbar-links:
   About Me: "aboutme"
+  Teaching: 
+  CV:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
