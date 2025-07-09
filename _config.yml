@@ -21,7 +21,7 @@ author: Kriti Sehgal
 
 navbar-links:
   About Me: "aboutme"
-  Teaching: 
+  Teaching: "teaching"
   CV: "/CV_June_2025.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
