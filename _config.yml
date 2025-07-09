@@ -22,10 +22,7 @@ author: Kriti Sehgal
 navbar-links:
   About Me: "aboutme"
   Teaching: "teaching"
-  CV: 
-    - name: "CV"
-      url: "/CV_June_2025.pdf"
-      new_tab: true
+  CV: "cv"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
