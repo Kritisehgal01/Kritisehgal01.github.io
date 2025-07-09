@@ -5,17 +5,17 @@ subtitle: "Preceptor in Data Science"
 permalink: /
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-  <!-- Left: Picture -->
-  <div style="flex: 0 0 150px;">
-    <img src="/assets/img/avatar-icon.png" alt="Kriti Sehgal" style="width: 150px; border-radius: 10px;">
-  </div>
+  <!-- Left image -->
+  <img src="/assets/img/avatar-icon.png" alt="Kriti Sehgal" style="max-width: 150px; border-radius: 50%;">
 
-  <!-- Right: Text -->
-  <div style="flex: 1;">
-  
-  ## Welcome to my homepage!
+  <!-- Right content starts -->
+  <div>
+
+<!-- Use raw HTML comment to start Markdown area -->
+<!--markdown-->
+ ## Welcome to my homepage!
 
   Thank you for your interest! I am currently a Preceptor in Data Science at the <a href="https://datascience.uchicago.edu/" target="_blank">Data Science Institute (DSI)</a> at the University of Chicago. My position is a collaboration between the <a href="https://www.uchicago.edu/en" target="_blank">University of Chicago</a> and the <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago</a>.
 
@@ -27,6 +27,7 @@ You can contact me at:
 - CCC-related: ksehgal AT ccc DOT edu  
 - All others: kritisehgal01 AT gmail DOT com  
 
-  
+<!--/markdown-->
+
   </div>
 </div>
