@@ -5,7 +5,7 @@ subtitle: "Preceptor in Data Science"
 permalink: /
 ---
 
-<img style="float: left; width: 400px; border-radius: 50%; margin-right: 30px; margin-bottom: 20px;" src="/assets/img/avatar-icon.png" alt="Picture of Kriti Sehgal">
+<img style="float: left; width: 300px; border-radius: 50%; margin-right: 30px; margin-bottom: 20px;" src="/assets/img/avatar-icon.png" alt="Picture of Kriti Sehgal">
 
 ## Welcome to my homepage!
 
