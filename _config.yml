@@ -21,12 +21,12 @@ author: Kriti Sehgal
 
 navbar-links:
   About Me: "aboutme"
-  Teaching: "teaching"
-  Research: "research"
   CV: "cv"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Teaching: 
+  - Experience: "teaching"
+  - Evaluations: "teaching_evaluations"
+  Research: "research"
+  Gallery:
   #Author's home: "https://deanattali.com"
 
 ################
