@@ -6,7 +6,7 @@ permalink: /
 show-avatar: false
 ---
 
-<img style="float: left; width: 250px; border-radius: 50%; margin-right: 30px; margin-bottom: 20px;" src="/assets/img/Kriti.JPG" alt="Picture of Kriti Sehgal">
+<img style="float: left; width: 280px; border-radius: 50%; margin-right: 30px; margin-bottom: 30px;" src="/assets/img/Kriti.JPG" alt="Picture of Kriti Sehgal">
 
 ## Welcome to my homepage!
 
