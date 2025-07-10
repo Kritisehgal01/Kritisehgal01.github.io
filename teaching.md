@@ -18,6 +18,17 @@ permalink: /teaching/
 | *Introduction to Data Science* | Fall 2025 |
 | *Foundations of Data Science I* | Winter 2025 |
 
+<div class="course-entry">
+  <span class="course-name">Intro to Data Science</span>
+  <span class="course-term">Fall 2025</span>
+</div>
+
+<div class="course-entry">
+  <span class="course-name">Math 140: College Algebra</span>
+  <span class="course-term">Fall 2025</span>
+</div>
+
+
 ### City Colleges of Chicago 
 
 ---
