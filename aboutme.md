@@ -8,9 +8,10 @@ title: About me
 
 - I obtained my:
   - PhD in Mathematics from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a>.
-  - Interned as part of the Scientific Content Development team at <a href="https://www.wolfram.com/?source=nav" target="_blank">Wolfram</a>.
   - Master’s in Mathematics from the <a href="https://math.iisc.ac.in//" target="_blank">Indian Institute of Science (IISc)</a>, Bangalore.
   - B.Sc. (Hons) in Mathematics from <a href="https://ramjas.du.ac.in/college/web/index.php" target="_blank">Ramjas College</a>, <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a>.
+
+- I interned as part of the Scientific Content Development team at <a href="https://www.wolfram.com/?source=nav" target="_blank">Wolfram</a>.
 
 - I taught a wide range of mathematics courses as a teaching assistant at both OSU and IISc, where I discovered and deepened my love for teaching.
 
