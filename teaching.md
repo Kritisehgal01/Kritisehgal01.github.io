@@ -7,30 +7,15 @@ permalink: /teaching/
 
 ## As Instructor
 ### University of Chicago 
+##### University of Chicago follows the quarter system. 
 
-<div style="display: flex; justify-content: space-between;">
-  <span>Intro to Data Science</span>
-  <span>Fall 2025</span>
-</div>
-
-| Course | Term |
-|--------|------|
-| *Introduction to Data Science* | Fall 2025 |
-| *Foundations of Data Science I* | Winter 2025 |
-
-<div class="course-entry">
-  <span class="course-name">Intro to Data Science</span>
-  <span class="course-term">Fall 2025</span>
-</div>
-
-<div class="course-entry">
-  <span class="course-name">Math 140: College Algebra</span>
-  <span class="course-term">Fall 2025</span>
-</div>
+- **DATA 118:** _Introduction to Data Science I_ Spring 2024 <a href="/assets/files/Syllabus_Sehgal_Data118.pdf" target="_blank">Syllabus (PDF)</a>
 
 
 ### City Colleges of Chicago 
+##### University of Chicago follows the semester system.  
 
+- **MATH 125:** _Introduction to Statistics_ Spring 2024
 ---
 ## As Teaching Assistant
 ### Ohio State
