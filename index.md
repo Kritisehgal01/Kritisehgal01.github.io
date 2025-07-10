@@ -3,6 +3,7 @@ layout: page
 title: "Kriti Sehgal"
 subtitle: "Preceptor in Data Science"
 permalink: /
+hide-avatar: true
 ---
 
 <img style="float: left; width: 250px; border-radius: 50%; margin-right: 30px; margin-bottom: 20px;" src="/assets/img/Kriti.JPG" alt="Picture of Kriti Sehgal">
