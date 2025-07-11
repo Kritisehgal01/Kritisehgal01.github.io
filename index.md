@@ -5,10 +5,10 @@ subtitle: "Preceptor in Data Science"
 permalink: /
 show-avatar: false
 ---
+## Welcome to my homepage!
 
 <img style="float: left; width: 280px; border-radius: 50%; margin-right: 30px; margin-bottom: 35px; margin-top: 35px" src="/assets/img/Kriti.JPG" alt="Picture of Kriti Sehgal">
 
-## Welcome to my homepage!
 
 Thank you for your interest! I am currently a Preceptor in Data Science at the [Data Science Institute (DSI)](https://datascience.uchicago.edu/) at the University of Chicago. My position is a collaboration between the [University of Chicago](https://www.uchicago.edu/en) and the [City Colleges of Chicago (CCC)](https://www.ccc.edu/).
 
