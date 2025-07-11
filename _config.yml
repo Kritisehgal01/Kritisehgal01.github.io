@@ -21,7 +21,6 @@ author: Kriti Sehgal
 
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
   Teaching: 
   - Experience: "teaching"
   - Evaluations: "teaching_evaluations"
