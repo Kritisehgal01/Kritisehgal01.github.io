@@ -26,8 +26,10 @@ title: About me
 
 - **Teaching**: Served as a teaching assistant at both OSU and IISc, where I discovered my passion for teaching.
 
-- **Honors**:
-  - <a href="https://gradsch.osu.edu/news/2023/03/17/2023-graduate-associate-teaching-award-recipients" target="_blank">Graduate Associate Teaching Award</a> – the highest teaching award for graduate students at OSU (2023)  
+- **Honors in Teaching and Leadership**:
+  - <a href="https://gradsch.osu.edu/news/2023/03/17/2023-graduate-associate-teaching-award-recipients" target="_blank">Graduate Associate Teaching Award</a> – the highest teaching award for graduate students at OSU (2023)
+  - SIAM Student Chapter Certificate of Recognition acknowledging exceptional service to OSU's SIAM Chapter (2023)
   - <a href="https://math.osu.edu/grad/current/graduate-teaching-awards" target="_blank">Phil Hueneke Distinguished Graduate Associate Teaching Award</a> (2022)
+  - Nominated for Graduate Student Leadership Award, OSU’s highest recognition for student leadership (2021)
     
 ---
