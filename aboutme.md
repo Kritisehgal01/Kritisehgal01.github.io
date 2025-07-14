@@ -7,11 +7,11 @@ title: About me
 
 - **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
 
-- **Curriculum Development**: I am co-authoring a <a href="https://amandakube.github.io/textbook-datascience-1/intro.html" target="_blank">textbook</a> for Data 118 and Data 119, two introductory data science courses at the University of Chicago.
+- **Curriculum Development**: Co-authoring a <a href="https://amandakube.github.io/textbook-datascience-1/intro.html" target="_blank">textbook</a> for Data 118 and Data 119, two introductory data science courses at the University of Chicago.
 
-- **Professional Development**: I participate in ongoing professional development with Dr. Anne Close, focusing on pedagogy and evidence-based teaching practices.
+- **Professional Development**: Participating in ongoing professional development with Dr. Anne Close, focusing on pedagogy and evidence-based teaching practices.
 
-- **Mentoring**: I mentor undergraduates through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
+- **Mentoring**: Mentoring undergraduates through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
   I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program.
 
 ---
