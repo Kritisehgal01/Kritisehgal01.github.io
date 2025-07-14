@@ -5,7 +5,7 @@ subtitle: "Mathematics, Statistics, Data Science"
 permalink: /teaching/
 ---
 
-## <u>As an Instructor</u>
+### <u>As an Instructor</u>
 #### University of Chicago 
 University of Chicago follows the quarter system. 
 
@@ -17,7 +17,7 @@ City Colleges of Chicago follows the semester system.
 - MATH 125: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus (PDF)</a>
 
 ---
-## <u>As a Teaching Assistant</u>
+### <u>As a Teaching Assistant</u>
 
 As a teaching assistant, my duties included...
 
