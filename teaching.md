@@ -18,8 +18,18 @@ City Colleges of Chicago follows the semester system.
 
 ---
 ## As a Teaching Assistant
-### Ohio State
 
+As a teaching assistant, my duties included...
+
+### Ohio State
+- Math 1149: Trigonometry (Spring 2024)
+- Math 2173: Calculus III Engineering Mathematics B (Fall 2023)
+- Math 1131: Calculus for Business (Spring 2022)
+- Math 1156: Calculus for Biological Sciences (Fall 2021)
+- Math 2153: Calculus III (Spring 2021)
+- Math 1172: Calculus II Engineering Mathematics (Spring 2020, Fall 2020)
+- Math 1151: Calculus I (Fall 2019)
 
 
 ### Indian Institute of Science
+- UM 101: Undergraduate Analysis and Linear Algebra (Fall 2017)
