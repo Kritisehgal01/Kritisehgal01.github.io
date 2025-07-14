@@ -7,7 +7,7 @@ title: About me
 
 - **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
 
-- **Curriculum Development**: I am co-authoring <a href="https://amandakube.github.io/textbook-datascience-1/intro.html" target="_blank">textbook</a> for *Data 118* and *Data 119*, two introductory data science courses at the University of Chicago.
+- **Curriculum Development**: I am co-authoring <a href="https://amandakube.github.io/textbook-datascience-1/intro.html" target="_blank">textbook</a> for Data 118 and Data 119, two introductory data science courses at the University of Chicago.
 
 - **Professional Development**: I participate in ongoing professional development with Dr. Anne Close, focusing on pedagogy and evidence-based teaching practices.
 
