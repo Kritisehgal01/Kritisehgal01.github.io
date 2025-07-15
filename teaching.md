@@ -6,12 +6,12 @@ permalink: /teaching/
 ---
 
 ### <u>As an Instructor</u>
-#### University of Chicago 
+#### University of Chicago: 
 University of Chicago follows the quarter system. 
 
 - DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus (PDF)</a>
 
-#### City Colleges of Chicago 
+#### City Colleges of Chicago: 
 City Colleges of Chicago follows the semester system.  
  
 - MATH 125: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus (PDF)</a>
@@ -21,7 +21,7 @@ City Colleges of Chicago follows the semester system.
 
 As a teaching assistant, my duties included...
 
-#### Ohio State
+#### Ohio State:
 - Math 1149: Trigonometry (Spring 2024)
 - Math 2173: Calculus III Engineering Mathematics B (Fall 2023)
 - Math 1131: Calculus for Business (Spring 2022)
