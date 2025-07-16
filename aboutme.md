@@ -29,7 +29,7 @@ title: About me
 - **Honors in Teaching and Leadership**:
   - <a href="https://gradsch.osu.edu/news/2023/03/17/2023-graduate-associate-teaching-award-recipients" target="_blank">Graduate Associate Teaching Award</a> – the highest teaching award for graduate students at OSU _(2023)_
   - <a href="/assets/files/SIAM_Ohio_State_Certificate.pdf" target="_blank">SIAM Student Chapter Certificate of Recognition</a> acknowledging exceptional service to OSU's SIAM Chapter _(2023)_
-  - <a href="https://math.osu.edu/grad/current/graduate-teaching-awards" target="_blank">Phil Hueneke Distinguished Graduate Associate Teaching Award</a> (2022)
+  - <a href="https://math.osu.edu/grad/current/graduate-teaching-awards" target="_blank">Phil Hueneke Distinguished Graduate Associate Teaching Award</a> _(2022)_
   - Nominated for Graduate Student Leadership Award, OSU’s highest recognition for student leadership _(2021)_
     
 ---
