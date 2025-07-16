@@ -4,9 +4,11 @@ title: "Research"
 permalink: /research/
 ---
 
-My doctoral work had two major components: 
-- Constructing a robust theoretical framework to explain the long-term dynamics of the extensively studied Hénon-Heiles system
-- Extending the application of Plemelj's formulas from Hölder continuous functions to the broader domain of Dini continuous functions and studying the domain of existence of Cauchy P.V. integrals.
+* At DSI, I am collaborating with <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank"> Internet Innovation</a> initiative to understand changes in the broadband measurement parameters. 
+
+* My doctoral work had two major components: 
+    - Constructing a robust theoretical framework to explain the long-term dynamics of the extensively studied Hénon-Heiles system
+    - Extending the application of Plemelj's formulas from Hölder continuous functions to the broader domain of Dini continuous functions and studying the domain of existence of Cauchy P.V. integrals.
 
 ### Research Papers:
 
