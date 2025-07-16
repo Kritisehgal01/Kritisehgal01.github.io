@@ -17,7 +17,7 @@ permalink: /teaching/
 ---
 ### <u>As a Teaching Assistant</u>
 
-As a teaching assistant, my responsibilities included leading weekly recitations, tutoring at the Mathematics and Statistics Learning Center, and holding regular office hours, with additional availability by appointment. I also proctored, graded, and provided feedback on quizzes, midterms, and the final exam.
+As a teaching assistant, my responsibilities included leading weekly recitations, tutoring at the Mathematics and Statistics Learning Center at OSU, and holding regular office hours, with additional availability by appointment. I also proctored, graded, and provided feedback on quizzes, midterms, and the final exam.
 
 **The Ohio State University:** _follows the semester system_
 - Math 1149: Trigonometry (Spring 2024)
