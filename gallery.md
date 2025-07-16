@@ -15,7 +15,7 @@ Here are a few snapshots from my journey:
 
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
     <img src="/assets/img/DSI_first_day.jpg" alt="First day at DSI" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.9em;">First day at DSI</p>
+    <p style="font-size: 0.9em;">My first day at DSI (first job)</p>
   </div>
 
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
