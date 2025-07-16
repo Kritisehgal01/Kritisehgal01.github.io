@@ -8,8 +8,6 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-<h4>The University of Chicago:</h4>
-<p style="margin-top: -10px;">University of Chicago follows the quarter system.</p>
 - DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus (PDF)</a>
 
 **City Colleges of Chicago:** _follows the semester system_
@@ -19,9 +17,9 @@ permalink: /teaching/
 ---
 ### <u>As a Teaching Assistant</u>
 
-_As a teaching assistant, my responsibilities included leading weekly recitations, tutoring at the Mathematics and Statistics Learning Center, and holding regular office hours, with additional availability by appointment. I also proctored, graded, and provided feedback on quizzes, midterms, and the final exam._
+As a teaching assistant, my responsibilities included leading weekly recitations, tutoring at the Mathematics and Statistics Learning Center, and holding regular office hours, with additional availability by appointment. I also proctored, graded, and provided feedback on quizzes, midterms, and the final exam.
 
-#### The Ohio State University:
+**The Ohio State University:** _follows the semester system_
 - Math 1149: Trigonometry (Spring 2024)
 - Math 2173: Calculus III Engineering Mathematics B (Fall 2023)
 - Math 1131: Calculus for Business (Spring 2022)
@@ -31,5 +29,5 @@ _As a teaching assistant, my responsibilities included leading weekly recitation
 - Math 1151: Calculus I (Fall 2019)
 
 
-#### Indian Institute of Science:
+**Indian Institute of Science:** _follows the semester system_ 
 - UM 101: Undergraduate Analysis and Linear Algebra (Fall 2017)
