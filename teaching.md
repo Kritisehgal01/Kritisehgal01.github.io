@@ -13,7 +13,6 @@ permalink: /teaching/
 - DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus (PDF)</a>
 
 **City Colleges of Chicago:** _follows the semester system_
-City Colleges of Chicago follows the semester system.  
  
 - MATH 125: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus (PDF)</a>
 
