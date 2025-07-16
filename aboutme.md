@@ -11,6 +11,8 @@ title: About me
 
 - **Professional Development**: Participating in ongoing professional development with Dr. Anne Close, focusing on pedagogy and evidence-based teaching practices.
 
+- **Research**: Collaborating with <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank"> Internet Innovation</a> initiative at DSI. 
+
 - **Mentoring**: Mentoring undergraduates through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
   I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program.
 
