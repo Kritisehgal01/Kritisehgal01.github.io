@@ -21,7 +21,7 @@ City Colleges of Chicago follows the semester system.
 ---
 ### <u>As a Teaching Assistant</u>
 
-As a teaching assistant, my duties included...
+_As a teaching assistant, my responsibilities included leading weekly recitations, tutoring at the Mathematics and Statistics Learning Center, and holding regular office hours, with additional availability by appointment. I also proctored, graded, and provided feedback on quizzes, midterms, and the final exam._
 
 #### The Ohio State University:
 - Math 1149: Trigonometry (Spring 2024)
