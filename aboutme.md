@@ -18,11 +18,11 @@ title: About me
 ### Prior to joining DSI
 
 - **Education**:
-  - PhD in Mathematics (Fall 2018- Spring 2024) from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a> 
-  - Master’s in Mathematics from the <a href="https://math.iisc.ac.in//" target="_blank">Indian Institute of Science (IISc)</a>, Bangalore _(Fall 2015- Spring 2018)_  
-  - B.Sc. (Hons) in Mathematics (Fall 2012- Spring 2015) from <a href="https://ramjas.du.ac.in/college/web/index.php" target="_blank">Ramjas College</a>, <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a> 
+  - PhD in Mathematics (2018–2024) from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a> 
+  - Master’s in Mathematics (2015–2018) from the <a href="https://math.iisc.ac.in//" target="_blank">Indian Institute of Science (IISc)</a>, Bangalore  
+  - B.Sc. (Hons) in Mathematics (2012–2015) from <a href="https://ramjas.du.ac.in/college/web/index.php" target="_blank">Ramjas College</a>, <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a> 
 
-- **Industry Experience**: Interned with the Scientific Content Development team (Summer 2023) at <a href="https://www.wolfram.com/?source=nav" target="_blank">Wolfram</a>. 
+- **Industry Experience**: Interned with the Scientific Content Development team at <a href="https://www.wolfram.com/?source=nav" target="_blank">Wolfram</a> in Summer 2023. 
 
 - **Teaching**: Served as a teaching assistant at both OSU and IISc, where I discovered my passion for teaching.
 
