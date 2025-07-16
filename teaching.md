@@ -6,7 +6,10 @@ permalink: /teaching/
 ---
 
 ### <u>As an Instructor</u>
-**University of Chicago:** _follows the quarter system _
+**University of Chicago:** _follows the quarter system_
+
+<h4>University of Chicago:</h4>
+<p style="margin-top: -10px;">University of Chicago follows the quarter system.</p>
 
 - DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus (PDF)</a>
 
