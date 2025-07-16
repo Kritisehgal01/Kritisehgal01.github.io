@@ -9,18 +9,29 @@ Here are a few snapshots from my journey:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
 
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/dsi_workshop.jpg" alt="Teaching at DSI" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.9em;">Leading a data science workshop at DSI</p>
+    <img src="/assets/img/CCC_teaching_OH.jpg" alt="Finishing first course as an instructor" style="width: 100%; border-radius: 8px;">
+    <p style="font-size: 0.9em;">Finishing first course as an instructor</p>
   </div>
 
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/osu_recitation.jpg" alt="OSU Recitation" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.9em;">Recitation session at The Ohio State University</p>
+    <img src="/assets/img/Graduation.jpg" alt="Graduation at The Ohio State University" style="width: 100%; border-radius: 8px;">
+    <p style="font-size: 0.9em;">Graduation at The Ohio State University</p>
   </div>
 
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
-    <img src="/assets/img/dssi_group.jpg" alt="DSSI students" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.9em;">Mentoring students in the DSSI summer program</p>
+    <img src="/assets/img/Defense.jpg" alt="PhD Thesis Defense" style="width: 100%; border-radius: 8px;">
+    <p style="font-size: 0.9em;">PhD Thesis Defense</p>
   </div>
+
+  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+    <img src="/assets/img/GATA.jpg" alt="Graduate Associate teaching award" style="width: 100%; border-radius: 8px;">
+    <p style="font-size: 0.9em;">Graduate Associate teaching award</p>
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+    <img src="/assets/img/Math_teaching_award.jpg" alt="Teaching award at Math department OSU" style="width: 100%; border-radius: 8px;">
+    <p style="font-size: 0.9em;">Teaching award at Math department OSU</p>
+  </div>
+  
 
 </div>
