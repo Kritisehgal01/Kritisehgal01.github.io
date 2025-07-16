@@ -14,6 +14,11 @@ Here are a few snapshots from my journey:
   </div>
 
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+    <img src="/assets/img/DSI_first_day.jpg" alt="First day at DSI" style="width: 100%; border-radius: 8px;">
+    <p style="font-size: 0.9em;">First day at DSI</p>
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
     <img src="/assets/img/Graduation.jpg" alt="Graduation at The Ohio State University" style="width: 100%; border-radius: 8px;">
     <p style="font-size: 0.9em;">Graduation at The Ohio State University</p>
   </div>
