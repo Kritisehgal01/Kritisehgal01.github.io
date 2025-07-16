@@ -4,7 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
-Research interests: ...
+Research interests: My doctoral work had two major components: 
+- Constructing a robust theoretical framework to explain the long-term dynamics of the extensively studied Hénon-Heiles system
+- Extending the application of Plemelj's formulas from Hölder continuous functions to the broader domain of Dini continuous functions and studying the domain of existence of Cauchy P.V. integrals.
 
 ### Research Papers:
 
