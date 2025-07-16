@@ -12,7 +12,7 @@ permalink: /teaching/
 
 **City Colleges of Chicago:** _follows the semester system_
  
-- MATH 125: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus (PDF)</a>
+- MATH 125: Introduction to Statistics (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus (PDF)</a>
 
 ---
 ### <u>As a Teaching Assistant</u>
