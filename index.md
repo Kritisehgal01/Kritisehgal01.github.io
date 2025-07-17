@@ -8,7 +8,7 @@ show-avatar: false
 
 <h2 style="text-align: center;">Welcome to my homepage!</h2>
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-top: 35px; margin-bottom: 35px;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-top: 55px; margin-bottom: 35px;">
   <img src="/assets/img/Kriti.JPG" alt="Picture of Kriti Sehgal" style="width: 280px; border-radius: 50%;" />
 
   <div style="flex: 1; min-width: 250px;">
