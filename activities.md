@@ -6,49 +6,48 @@ permalink: /activities/
 
 ### Talks
 
-- **Data4All Guest Speaker**, University of Chicago — *Nov 23, 2024*  
-- **Invited Talk**, “Recent Advances in the Analysis of Partial Differential Equations”  
-  SIAM Great Lakes Meeting, Michigan State University — *Oct 14, 2023*
-- **AWM Poster Presentation**, Joint Math Meetings (Online) — *Jan 08, 2021*
+- **Guest Speaker**, Data4All, University of Chicago (November 23, 2024)
+- **Invited Talk**, "Recent Advances in the Analysis of Partial Differential Equations", SIAM Great Lakes Meeting, Michigan State University (October 14, 2023)
+- **Poster Presentation**, Association for Women in Mathematics, Joint Math Meetings (Online) (January 8, 2021)
 
 ---
 
 ### Mentorship
 
-- Mentor, **Data Science for Social Impact Summer Experience**, UChicago — *Summer 2025*
-- Mentor, **Data Science Clinic Program**, UChicago — *Fall 2024, Winter 2025, Spring 2025*
-- Mentor, **Directed Reading Program**, OSU — *Fall 2021*
-- **One-on-one mentorship and teaching support**, OSU — *Fall 2021*
+- **Mentor**, Data Science for Social Impact Summer Experience, UChicago (Summer 2025)
+- **Mentor**, Data Science Clinic, UChicago (Fall 2024, Winter 2025, Spring 2025)
+- **Mentor**, Directed Reading Program, OSU (Fall 2021)
+- **Teaching Support**, One-on-one mentorship for new TAs, OSU (Fall 2021)
 
 ---
 
-### Leadership & Service
+### Leadership and Service
 
-- President, **Society for industrial and applied mathematics (SIAM) Student Chapter**, OSU — *Aug 2022 – Apr 2023*
-- Vice President, **Association for Women in Mathematics (AWM) Chapter**, OSU — *Aug 2021 – Apr 2023*
-- Vice President, **Mathematics Graduate Student Association**, OSU — *Aug 2020 – May 2022*
-- Founder & Organizer, **Student Analysis Seminar**, OSU — *Jan 2020 – May 2022*
-- Graduate Student Representative, **Diversity Committee**, OSU Math Department — *Aug 2020 – May 2021*
-- Outreach Coordinator, **SIAM Chapter**, IISc — *Aug 2017 – May 2018*
+- **President**, SIAM Student Chapter, OSU (Aug 2022 – Apr 2023)
+- **Vice President**, AWM Chapter, OSU (Aug 2021 – Apr 2023)
+- **Vice President**, Math Graduate Student Association, OSU (Aug 2020 – May 2022)
+- **Founder & Organizer**, Student Analysis Seminar, OSU (Jan 2020 – May 2022)
+- **Graduate Student Representative**, Diversity Committee, OSU Math Department (Aug 2020 – May 2021)
+- **Outreach Coordinator**, SIAM Chapter, IISc (Aug 2017 – May 2018)
 
 ---
 
 ### Selected Projects
 
-- **Mathematical Problems in Industry (MPI 2024)**  
-  Analyzed de-identified datasets from Vironix Health to study disease progression in patients undergoing remote monitoring. Explored predictors of adverse events, patient compliance, and engagement.
+- **Mathematical Problems in Industry (MPI 2024)**:  
+Analyzed Vironix Health’s de-identified datasets on disease progression during remote patient monitoring to identify positive health outcomes and predict adverse episodes, patient compliance, and engagement.
 
-- **Erdős Institute Data Science Boot Camp (Fall 2023)**  
-  Built predictive models to forecast the behavior of the S&P 500 index, comparing performance across multiple models and indices.
+- **Erdős Institute Data Science Boot Camp (Fall 2023)**:  
+Built predictive models to forecast S&P 500 index behavior and compared results across stock indices.
 
-- **Wolfram|Alpha (Summer 2023)**  
-  Contributed to a project extracting and validating mathematical assertions from scientific papers. Ensured accurate LaTeX parsing, reduced error messages using pattern matching, regular expressions, and string manipulations.
+- **Wolfram|Alpha (Summer 2023)**:  
+Contributed to a project extracting and validating mathematical assertions from scientific papers, using LaTeX parsing, pattern matching, and regular expressions.
 
-- **Mathematical Problems in Industry (MPI 2022)**  
-  Performed exploratory data analysis on hospital admission data to uncover features and patterns relevant to heart failure prediction and severity classification.
+- **Mathematical Problems in Industry (MPI 2022)**:  
+Conducted exploratory data analysis of hospital admission data to identify key features and symptoms predictive of heart failure severity.
 
-- **Graduate Student Math Modeling Camp (GSMMC 2022)**  
-  Modeled trade-offs between geospatial data transparency, privacy, and utility using statistical methods and randomization techniques.
+- **Graduate Student Math Modeling Camp (GSMMC 2022)**:  
+Analyzed geospatial travel data to balance transparency, privacy, and utility using statistical and randomization methods.
 
-- **Erdős Institute Data Science Boot Camp (Summer 2021)**  
-  Identified key factors in successful cancer clinical trials using K-nearest neighbors, decision trees, and support vector machines.
+- **Erdős Institute Data Science Boot Camp (May 2021)**:  
+Used predictive modeling (KNN, Decision Trees, SVMs) to identify success factors in clinical trials for cancer interventions.
