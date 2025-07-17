@@ -20,7 +20,8 @@ title: About me
 ### Prior to joining DSI
 
 - **Education**:
-  - PhD in Mathematics (2018–2024) from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a> 
+  - PhD in Mathematics (2018–2024) from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a>
+  - Master’s in Mathematics (2018–2021) through PhD Candidacy from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>
   - Master’s in Mathematics (2015–2018) from the <a href="https://math.iisc.ac.in//" target="_blank">Indian Institute of Science (IISc)</a>, Bangalore  
   - B.Sc. (Hons) in Mathematics (2012–2015) from <a href="https://ramjas.du.ac.in/college/web/index.php" target="_blank">Ramjas College</a>, <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a> 
 
