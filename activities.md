@@ -6,27 +6,30 @@ permalink: /activities/
 
 ### Talks
 
-- Data4All Guest Speaker (Invited talk), University of Chicago - Nov 23, 2024.  
-- Invited talk at the session "Recent Advances in the Analysis of Partial Differential Equations" at the SIAM Great Lakes Meeting, Michigan State University - Oct 14, 2023.
-- Joint Math Meetings AWM Poster Presentation, Online - Jan 08, 2021.
+- **Data4All Guest Speaker**, University of Chicago — *Nov 23, 2024*  
+- **Invited Talk**, “Recent Advances in the Analysis of Partial Differential Equations”  
+  SIAM Great Lakes Meeting, Michigan State University — *Oct 14, 2023*
+- **AWM Poster Presentation**, Joint Math Meetings (Online) — *Jan 08, 2021*
 
 ---
 
-### Mentorship:
+### Mentorship
 
-- 
-
+- Mentor, **Data Science for Social Impact Summer Experience**, UChicago — *Summer 2025*
+- Mentor, **Data Science Clinic Program**, UChicago — *Fall 2024, Winter 2025, Spring 2025*
+- Mentor, **Directed Reading Program**, OSU — *Fall 2021*
+- **One-on-one mentorship and teaching support**, OSU — *Fall 2021*
 
 ---
 
 ### Leadership & Service
 
-- President, Society for industrial and applied mathematics (SIAM) chapter at OSU, Aug 2022 - Apr 2023.
-- Vice-President, Association for Women in Mathematics (AWM) chapter at OSU, Aug 2021 - Apr 2023.
-- Vice-President, Mathematics graduate student association at OSU, Aug 2020 – May 2022.
-- Founder and organizer, Student analysis seminar in Math department at OSU, Jan 2020 – May 2022.
-- Graduate student representative of the Math department's Diversity committee at OSU, Aug 2020 - May 2021.
-- Outreach Coordinator, Society for industrial and applied mathematics chapter at IISc, Aug 2017 - May 2018.
+- President, **Society for industrial and applied mathematics (SIAM) Student Chapter**, OSU — *Aug 2022 – Apr 2023*
+- Vice President, **Association for Women in Mathematics (AWM) Chapter**, OSU — *Aug 2021 – Apr 2023*
+- Vice President, **Mathematics Graduate Student Association**, OSU — *Aug 2020 – May 2022*
+- Founder & Organizer, **Student Analysis Seminar**, OSU — *Jan 2020 – May 2022*
+- Graduate Student Representative, **Diversity Committee**, OSU Math Department — *Aug 2020 – May 2021*
+- Outreach Coordinator, **SIAM Chapter**, IISc — *Aug 2017 – May 2018*
 
 ---
 
