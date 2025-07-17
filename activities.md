@@ -49,5 +49,5 @@ Conducted exploratory data analysis of hospital admission data to identify key f
 - **Graduate Student Math Modeling Camp (GSMMC 2022)**:  
 Analyzed geospatial travel data to balance transparency, privacy, and utility using statistical and randomization methods.
 
-- **Erdős Institute Data Science Boot Camp (May 2021)**:  
+- **Erdős Institute Data Science Boot Camp (Summer 2021)**:  
 Used predictive modeling (KNN, Decision Trees, SVMs) to identify success factors in clinical trials for cancer interventions.
