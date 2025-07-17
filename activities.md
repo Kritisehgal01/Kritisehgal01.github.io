@@ -34,6 +34,9 @@ permalink: /activities/
 
 ### Selected Projects
 
+- **Mathematical Problems in Industry (MPI 2025)**:  
+Collaborated with Kwaai, an open-source AI lab, to study privacy-preserving query methods for vector databases in Personal AI. Explored encryption techniques like dimensional scrambling, noise injection, ElGamal, and CKKS, and developed and evaluated new homomorphic encryption algorithms.
+
 - **Mathematical Problems in Industry (MPI 2024)**:  
 Analyzed Vironix Health’s de-identified datasets on disease progression during remote patient monitoring to identify positive health outcomes and predict adverse episodes, patient compliance, and engagement.
 
@@ -44,7 +47,7 @@ Built predictive models to forecast S&P 500 index behavior and compared results 
 Contributed to a project extracting and validating mathematical assertions from scientific papers, using LaTeX parsing, pattern matching, and regular expressions.
 
 - **Mathematical Problems in Industry (MPI 2022)**:  
-Conducted exploratory data analysis of hospital admission data to identify key features and symptoms predictive of heart failure severity.
+Collaborated with Vironix Health to conducted exploratory data analysis of hospital admission data to identify key features and symptoms predictive of heart failure severity.
 
 - **Graduate Student Math Modeling Camp (GSMMC 2022)**:  
 Analyzed geospatial travel data to balance transparency, privacy, and utility using statistical and randomization methods.
