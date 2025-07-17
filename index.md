@@ -56,7 +56,6 @@ show-avatar: false
       <a href="https://www.uchicago.edu/en" target="_blank">University of Chicago</a> and the
       <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>.
     </p>
-
     <p>
       While pursuing my PhD, I explored the emerging field of data science through coursework at OSU,
       as well as bootcamps and workshops hosted by the
