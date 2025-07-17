@@ -35,16 +35,20 @@ permalink: /activities/
 
 ### Selected Projects
 
-- **Mathematical problems in industry (MPI 2024)**
-   Analyzed Vironix Health's de-identified datasets detailing the disease progression in patients undergoing remote patient monitoring to understand positive health outcomes that have emerged from patient monitoring efforts, to predict adverse patient episodes, patient complaince and engagement.
--  **Erdős Institute data science boot camp (Fall 2023)**
-   Building predictive model to forecast the behavior of S&P 500 index. Our ultimate goal is to compare the models that give the best results across popular stock indices.
-- **Wolfram|Alpha (Summer 2023)**:
-    Contributed to a project aiming to extract and validate mathematical assertions from scientific papers. Ensured accurate interpretation of LaTeX commands, debugged, reduced the error messages through pattern matching, regular expressions, and string manipulations.
-- **Mathematical problems in industry (MPI 2022)**
-   Performed exploratory data analysis examining hospital admission data sets to identify crucial patterns and features relevant to heart failure. Studied the correlations among several features and symptoms to predict the severe/non-severe presentations of Heart Failure.
-- **Graduate student math modeling camp (GSMMC 2022)**
-  Analyzed geospatial travel data to identify and model trade-offs between data transparency, privacy, and utility. Utilized statistical methods and randomization techniques to enhance privacy while preserving data usefulness.
-- **Erdős Institute data science boot camp May 2021**
-  Utilized advanced data analytics techniques to identify key factors that contributed to the successful completion of clinical trials for cancer intervention. Used predictive modeling methods such as K-nearest neighbors, Decision Trees, and Support Vector Machines to determine whether a given trial would be successful.
+- **Mathematical Problems in Industry (MPI 2024)**  
+  Analyzed de-identified datasets from Vironix Health to study disease progression in patients undergoing remote monitoring. Explored predictors of adverse events, patient compliance, and engagement.
 
+- **Erdős Institute Data Science Boot Camp (Fall 2023)**  
+  Built predictive models to forecast the behavior of the S&P 500 index, comparing performance across multiple models and indices.
+
+- **Wolfram|Alpha (Summer 2023)**  
+  Contributed to a project extracting and validating mathematical assertions from scientific papers. Ensured accurate LaTeX parsing, reduced error messages using pattern matching, regular expressions, and string manipulations.
+
+- **Mathematical Problems in Industry (MPI 2022)**  
+  Performed exploratory data analysis on hospital admission data to uncover features and patterns relevant to heart failure prediction and severity classification.
+
+- **Graduate Student Math Modeling Camp (GSMMC 2022)**  
+  Modeled trade-offs between geospatial data transparency, privacy, and utility using statistical methods and randomization techniques.
+
+- **Erdős Institute Data Science Boot Camp (Summer 2021)**  
+  Identified key factors in successful cancer clinical trials using K-nearest neighbors, decision trees, and support vector machines.
