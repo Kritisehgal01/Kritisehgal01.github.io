@@ -7,7 +7,7 @@ permalink: /activities/
 ### Talks
 
 - Data4All Guest Speaker (Invited talk), University of Chicago - Nov 23, 2024.  
-- Invited talk at the session "Recent Advances in the Analysis of Partial Differential Equations" at the SIAM Great Lakes Meeting, Michigan State University - October 14, 2023.
+- Invited talk at the session "Recent Advances in the Analysis of Partial Differential Equations" at the SIAM Great Lakes Meeting, Michigan State University - Oct 14, 2023.
 - Joint Math Meetings AWM Poster Presentation, Online - Jan 08, 2021.
 
 ---
@@ -35,9 +35,9 @@ permalink: /activities/
 - **Mathematical problems in industry (MPI 2024)**
    Analyzed Vironix Health's de-identified datasets detailing the disease progression in patients undergoing remote patient monitoring to understand positive health outcomes that have emerged from patient monitoring efforts, to predict adverse patient episodes, patient complaince and engagement.
 -  **Erdős Institute data science boot camp (Fall 2023)**
-   Building predictive model to forecast the behavior of S\&P 500 index. Our ultimate goal is to compare the models that give the best results across popular stock indices.
+   Building predictive model to forecast the behavior of S&P 500 index. Our ultimate goal is to compare the models that give the best results across popular stock indices.
 - **Wolfram|Alpha (Summer 2023)**:
-    Contributed to a project aiming to extract and validate mathematical assertions from scientific papers. Ensured accurate interpretation of \LaTeX \  commands, debugged, reduced the error messages through pattern matching, regular expressions, and string manipulations.
+    Contributed to a project aiming to extract and validate mathematical assertions from scientific papers. Ensured accurate interpretation of LaTeX commands, debugged, reduced the error messages through pattern matching, regular expressions, and string manipulations.
 - **Mathematical problems in industry (MPI 2022)**
    Performed exploratory data analysis examining hospital admission data sets to identify crucial patterns and features relevant to heart failure. Studied the correlations among several features and symptoms to predict the severe/non-severe presentations of Heart Failure.
 - **Graduate student math modeling camp (GSMMC 2022)**
