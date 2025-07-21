@@ -21,9 +21,9 @@ author: Kriti Sehgal
 
 navbar-links:
   About Me: "aboutme"
-  Teaching: 
-  - Experience: "teaching"
-  - Evaluations: "teaching_evaluations"
+  Teaching: "teaching" #idea to make it a drop down in the nav bar and make the following sub-sections
+  #- Experience: "teaching" 
+  #- Evaluations: "teaching_evaluations"
   Research: "research"
   Activities: "activities"
   Gallery: "gallery"
