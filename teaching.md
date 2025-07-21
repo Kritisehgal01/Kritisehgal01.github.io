@@ -8,11 +8,11 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-- DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations</a>
+- DATA 118: Introduction to Data Science I (Spring 2024): <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations</a>
 
 **City Colleges of Chicago:** _follows the semester system_
  
-- MATH 125: Introduction to Statistics (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
+- MATH 125: Introduction to Statistics (Spring 2024): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
 
 ---
 ### <u>As a Teaching Assistant</u>
