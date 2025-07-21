@@ -8,7 +8,7 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-- DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus (PDF)</a>, <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Evaluations (PDF)</a>
+- DATA 118: Introduction to Data Science I (Spring 2024) <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus (PDF)</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations (PDF)</a>
 
 **City Colleges of Chicago:** _follows the semester system_
  
