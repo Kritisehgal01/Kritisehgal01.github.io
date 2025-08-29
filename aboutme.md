@@ -23,7 +23,9 @@ title: About me
   - PhD in Mathematics (2018–2024) from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a>
   - Master’s in Mathematics (2018–2021) through PhD Candidacy from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>
   - Master’s in Mathematics (2015–2018) from the <a href="https://math.iisc.ac.in//" target="_blank">Indian Institute of Science (IISc)</a>
-  - B.Sc. (Hons) in Mathematics (2012–2015) from <a href="https://ramjas.du.ac.in/college/web/index.php" target="_blank">Ramjas College</a>, <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a> 
+  - B.Sc. (Hons) in Mathematics (2012–2015) from <a href="https://ramjas.du.ac.in/college/web/index.php" target="_blank">Ramjas College</a>, <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a>
+  
+- I am a proud alumni of the <a href="https://mtts.org.in/" target="_blank"> Mathematics Training and Talent Search Programme (MTTS)</a>, Level-O at IIT Guwahati.
 
 - **Industry Experience**: Interned with the Scientific Content Development team at <a href="https://www.wolfram.com/?source=nav" target="_blank">Wolfram</a> in Summer 2023. 
 
