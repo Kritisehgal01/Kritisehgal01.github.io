@@ -14,6 +14,7 @@ permalink: /activities/
 
 ### Mentorship
 
+- **Mentor**, Statistics for Machine Learning, Data Science, and Artificial Intelligence Online Training Program, [Mathematics Training and Talent Search Program](https://mtts.org.in/training-programmes/statistics-for-machine-learning-data-science-and-artificial-intelligence), India (Fall 2025)
 - **Mentor**, Data Science for Social Impact Summer Experience, UChicago (Summer 2025)
 - **Mentor**, Data Science Clinic, UChicago (Fall 2024, Winter 2025, Spring 2025)
 - **Mentor**, Directed Reading Program, OSU (Fall 2021)
