@@ -8,7 +8,10 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-- DATA 118: Introduction to Data Science I (Spring 2024): <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations</a>
+- DATA 231: Machine Learning Fundamentals: Theory and Practice (Upcoming: Spring 2026)
+- DATA 119: Introduction to Data Science II (Upcoming: Winter 2026)
+- DATA 119 Labs: Introduction to Data Science II (Fall 2025)
+- DATA 118: Introduction to Data Science I (Spring 2025): <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations</a>
 
 **City Colleges of Chicago:** _follows the semester system_
  
