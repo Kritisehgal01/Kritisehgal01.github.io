@@ -12,6 +12,7 @@ title: About me
         - <a href="https://textbook-datascience-1-dev.vercel.app/23/Intro.html" target="_blank">Chapter on Neural networks and Deep learning</a>
         - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on Introduction to Machine learning</a>
         - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on DataFrames</a>, in collboration with Jesse London (Software Engineer, Data Science Institute).
+          
   Please do not hesitate to send me your feedback. 
    - Collaborating with Olive-Harvey College (City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
 
