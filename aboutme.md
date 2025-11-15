@@ -7,13 +7,15 @@ title: About me
 
 - **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
 
-- **Curriculum Development**: Co-authoring a <a href="https://ds1.datascience.uchicago.edu/intro.html" target="_blank">textbook</a> for Data 118 and Data 119 (under development), two introductory data science courses at the University of Chicago.
+- **Curriculum Development**:
+   - Co-authoring and Editing University of Chicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank">textbook</a> for introductory data science course sequence: Data 118 and Data 119 (under development). 
+   - Collaborating with Olive-Harvey College (City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
 
-- **Professional Development**: Participating in ongoing professional development with Dr. Anne Close, focusing on pedagogy and evidence-based teaching practices.
+- **Professional Development**: Participating in ongoing professional development training with Dr. Anne Close at City colleges of Chicago. It is a comprehensive faculty development program focused on evidence-based pedagogy, inclusive teaching practices, classroom action research, and reflective practice in preparation for a career in higher education
 
 - **Research**: Collaborating with <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank"> Internet Innovation</a> initiative at DSI. 
 
-- **Mentoring**: Mentoring undergraduates through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
+- **Mentoring**: Mentoring undergraduate students through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
   I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program.
 
 ---
