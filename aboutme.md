@@ -11,7 +11,7 @@ title: About me
    - Co-authoring and editing University of Chicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank">textbook</a> for introductory data science course sequence: Data 118 and Data 119 (under development). Some of my work includes:
         - <a href="https://textbook-datascience-1-dev.vercel.app/23/Intro.html" target="_blank">Chapter on Neural networks and Deep learning</a>
         - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on Introduction to Machine learning</a>
-        - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on DataFrames</a>, in collboration with Jesse London (Software Engineer, Data Science Institute)
+        - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on DataFrames</a>, in collaboration with Jesse London (Software Engineer, Data Science Institute)
    - Collaborating with Olive-Harvey College (one of the City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
    - Contributing to development of lab/recitation curriculum as part of a teaching research initiative examining the impact of mandatory lab components on student learning outcomes in introductory data science courses.
 
