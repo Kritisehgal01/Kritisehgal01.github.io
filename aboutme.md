@@ -15,7 +15,7 @@ title: About me
   Please do not hesitate to send me your feedback. 
    - Collaborating with Olive-Harvey College (City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
 
-- **Professional Development**: Participating in ongoing professional development training with Dr. Anne Close at City colleges of Chicago. It is a comprehensive faculty development program focused on evidence-based pedagogy, inclusive teaching practices, classroom action research, and reflective practice in preparation for a career in higher education
+- **Professional Development**: Participating in ongoing professional development training with Dr. Anne Close at City colleges of Chicago. It is a comprehensive faculty development program focused on evidence-based pedagogy, inclusive teaching practices, classroom action research, and reflective practice in preparation for a career in higher education.
 
 - **Research**: Collaborating with <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank"> Internet Innovation</a> initiative at DSI. 
 
