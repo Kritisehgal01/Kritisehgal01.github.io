@@ -16,4 +16,4 @@ permalink: /research/
 ### Research Papers:
 
 -  <a href="https://arxiv.org/abs/2311.13392" target="_blank"> On the pointwise existence of Cauchy P.V. integrals</a>, with N. Castillo and O. Costin
--  <a href="https://arxiv.org/abs/2411.16071" target="_blank"> Long time evolution of the Hénon-Heiles system for small energy</a>, , with O. Costin and R. Costin
+-  <a href="https://pubs.aip.org/aip/jmp/article-abstract/66/9/092708/3364153/Long-time-evolution-of-the-Henon-Heiles-system-for?redirectedFrom=fulltext" target="_blank"> Long time evolution of the Hénon-Heiles system for small energy</a>, , with O. Costin and R. Costin
