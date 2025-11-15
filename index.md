@@ -57,7 +57,7 @@ show-avatar: false
       <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>.
     </p>
     <p>
-      While pursuing my PhD, I explored the emerging field of data science through coursework at OSU and by participating in bootcamps and workshops hosted by the
+      While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at OSU and by participating in Data Science bootcamps and workshops hosted by the
       <a href="https://www.erdosinstitute.org/" target="_blank">Erdős Institute</a>.
       This exploration, combined with my passion for teaching, led me to my current role.
     </p>
@@ -65,7 +65,7 @@ show-avatar: false
 </div>
 
 <p>
-  - Please find my C.V. <a href="/assets/files/CV_July_2025.pdf" target="_blank">here</a> (updated July 2025).
+  - Please find my C.V. <a href="/assets/files/Sehgal_CV_Nov_2025.pdf" target="_blank">here</a> (updated November 2025).
 </p>
 
 <p>You can contact me at:</p>
