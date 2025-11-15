@@ -8,19 +8,20 @@ title: About me
 - **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
 
 - **Curriculum Development**:
-   - Co-authoring and Editing University of Chicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank">textbook</a> for introductory data science course sequence: Data 118 and Data 119 (under development). Some of my work includes (please feel free to email me your feedback):
+   - Co-authoring and editing University of Chicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank">textbook</a> for introductory data science course sequence: Data 118 and Data 119 (under development). Some of my work includes:
         - <a href="https://textbook-datascience-1-dev.vercel.app/23/Intro.html" target="_blank">Chapter on Neural networks and Deep learning</a>
         - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on Introduction to Machine learning</a>
         - <a href="https://textbook-datascience-1-dev.vercel.app/ML/1/Introduction_to_Machine_Learning.html" target="_blank">Chapter on DataFrames</a>, in collboration with Jesse London (Software Engineer, Data Science Institute).
-   - Collaborating with Olive-Harvey College (City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
-   - Contributing to development of labs/recitations curriculum as part of a teaching research initiative examining the impact of mandatory lab components on student learning outcomes in introductory data science courses.
+   - Collaborating with Olive-Harvey College (one of the City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
+   - Contributing to development of lab/recitation curriculum as part of a teaching research initiative examining the impact of mandatory lab components on student learning outcomes in introductory data science courses.
 
-- **Professional Development**: Participating in ongoing professional development training with Dr. Anne Close at City colleges of Chicago. It is a comprehensive faculty development program focused on evidence-based pedagogy, inclusive teaching practices, classroom action research, and reflective practice in preparation for a career in higher education.
+- **Professional Development**: Participating in ongoing professional development training with Dr. Anne Close at the City colleges of Chicago. It is a comprehensive faculty development program focused on evidence-based and inclusive teaching practices, classroom action research, and reflective practice in preparation for a career in higher education.
 
 - **Research**: Collaborating with <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank"> Internet Innovation</a> initiative at DSI. 
 
-- **Mentoring**: Mentoring undergraduate students through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
-  I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program.
+- **Mentoring**:
+     - Mentoring undergraduate students through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
+     - I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program. This summer (2025), my students developed *Seedbot*, a chatbot that parses legal documents and answers questions about seed laws from 78 countries in simplified language. Their work has been accepted for poster presentation, with a paper in preparation.
 
 ---
 ### Prior to joining DSI
