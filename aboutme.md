@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-### My role at the Data Science Institute (DSI)
+### My role at the Data Science Institute (DSI):
 
 - **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
 
@@ -21,7 +21,7 @@ title: About me
      - I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program. This summer (2025), my students developed *Seedbot*, a chatbot that parses legal documents and answers questions about seed laws from 78 countries in simplified language. Their work has been accepted for poster presentation, with a paper in preparation.
 
 ---
-### Prior to joining DSI
+### Prior to joining DSI:
 
 - **Education**:
   - PhD in Mathematics (2018–2024) from <a href="https://math.osu.edu/" target="_blank">The Ohio State University (OSU)</a>, under the supervision of <a href="https://people.math.osu.edu/costin.9/" target="_blank">Prof. Ovidiu Costin</a> and <a href="https://math.osu.edu/people/costin.10" target="_blank">Prof. Rodica Costin</a>
