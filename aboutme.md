@@ -5,6 +5,7 @@ title: About me
 
 ### My role at the Data Science Institute (DSI):
 
+
 - **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
 
 - **Curriculum Development**:
