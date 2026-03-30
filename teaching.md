@@ -17,7 +17,7 @@ permalink: /teaching/
 
 **City Colleges of Chicago:** _follows the semester system_
  
-- MATH 118: General Education Math (Spring 2026): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
+- MATH 118: General Education Math (Spring 2026): <a href="/assets/files/Sehgal_Syllabus_Math118_Spring_2026.pdf" target="_blank">Syllabus</a>
 - MATH 125: Introduction to Statistics (Spring 2025): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
 
 ---
