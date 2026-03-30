@@ -8,14 +8,17 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-- DATA 231: Machine Learning Fundamentals: Theory and Practice (Upcoming: Spring 2026)
-- DATA 119: Introduction to Data Science II (Upcoming: Winter 2026)
+- DATA 231: Machine Learning Fundamentals: Theory and Practice (Spring 2026)
+- DATA 213: Models in Data Science (Co-teaching with Prof. David Biron, Spring 2026)
+- DATA 119 Labs: Introduction to Data Science II (Spring 2026)
+- DATA 119: Introduction to Data Science II (Winter 2026): <a href="/assets/files/Syllabus_DATA_STAT_119.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA119_Winter_2026.pdf" target="_blank">Evaluations</a>
 - DATA 119 Labs: Introduction to Data Science II (Fall 2025)
 - DATA 118: Introduction to Data Science I (Spring 2025): <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations</a>
 
 **City Colleges of Chicago:** _follows the semester system_
  
-- MATH 125: Introduction to Statistics (Spring 2024): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
+- MATH 118: General Education Math (Spring 2026): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
+- MATH 125: Introduction to Statistics (Spring 2025): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
 
 ---
 ### <u>As a Teaching Assistant</u>
