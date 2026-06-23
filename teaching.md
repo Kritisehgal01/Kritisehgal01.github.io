@@ -8,6 +8,8 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
+- DATA 211: Mathematical Methods in Data Science I *(Upcoming, Fall 2026)*
+- DATA 231: Machine Learning Fundamentals: Theory and Practice *(Upcoming, Fall 2026)*
 - DATA 231: Machine Learning Fundamentals: Theory and Practice (Spring 2026): <a href="/assets/files/Sehgal_Syllabus_DATA_231.pdf" target="_blank">Syllabus</a>
 - DATA 213: Models in Data Science (Co-teaching with Prof. David Biron, Spring 2026)
 - DATA 119 Labs: Introduction to Data Science II (Spring 2026)
