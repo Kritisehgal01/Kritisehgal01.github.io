@@ -52,7 +52,7 @@ show-avatar: false
     <p>
       Thank you for your interest! I am currently a Preceptor in Data Science at the
       <a href="https://datascience.uchicago.edu/" target="_blank">Data Science Institute (DSI)</a>
-      at the University of Chicago. Preceptors develop and teach data science curriculum at UChicago and at <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>, a community college system in Chicago. This role has allowed me to successfully teach very diverse groups of students, and to quickly adapt my teaching style to meet unique needs or backgrounds of my students students.
+      at the University of Chicago. As a preceptor, I develop and teach data science curriculum at UChicago and at <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>, a community college system in Chicago. This role has allowed me to successfully teach very diverse groups of students, and to quickly adapt my teaching style to meet unique needs or backgrounds of my students.
     </p>
     <p>
       While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at <a href="https://www.https://www.osu.edu/" target="_blank">Ohio State</a> and by participating in Data Science bootcamps and workshops hosted by the
