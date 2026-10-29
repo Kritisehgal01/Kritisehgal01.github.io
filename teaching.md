@@ -8,8 +8,8 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-- DATA 211: Mathematical Methods in Data Science I *(Upcoming, Fall 2026)*
-- DATA 231: Machine Learning Fundamentals: Theory and Practice *(Upcoming, Fall 2026)*
+- DATA 211: Mathematical Methods in Data Science I *(Current, Fall 2026)*
+- DATA 231: Machine Learning Fundamentals: Theory and Practice *(Current, Fall 2026)*
 - Pathways in Data Science Summer Immersion Program *(Summer 2026)*
 - DATA 231: Machine Learning Fundamentals: Theory and Practice (Spring 2026): <a href="/assets/files/Sehgal_Syllabus_DATA_231.pdf" target="_blank">Syllabus</a>
 - DATA 213: Models in Data Science (Co-teaching with Prof. David Biron, Spring 2026)
@@ -19,7 +19,8 @@ permalink: /teaching/
 - DATA 118: Introduction to Data Science I (Spring 2025): <a href="/assets/files/Syllabus_Sehgal_Data_118.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA118_Spring_2025.pdf" target="_blank">Evaluations</a>
 
 **City Colleges of Chicago:** _follows the semester system_
- 
+
+- CIS 175: Introduction to Data Science *(Current, Fall 2026)*
 - MATH 118: General Education Math (Spring 2026): <a href="/assets/files/Sehgal_Syllabus_Math118_Spring_2026.pdf" target="_blank">Syllabus</a>
 - MATH 125: Introduction to Statistics (Spring 2025): <a href="/assets/files/Syllabus_Sehgal_Math_125.pdf" target="_blank">Syllabus</a>
 
