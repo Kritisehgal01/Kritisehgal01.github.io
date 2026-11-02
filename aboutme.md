@@ -23,7 +23,7 @@ title: About me
 
 - **Mentoring**:
      - Mentor undergraduate students through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago where student teams work on projects for nonprofit and industry partners. I have mentored teams across five quarters between Fall 2024 and Fall 2026.
-     - Supervised an undergraduate team in the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program (Summer 2025). The team developed *Seedbot*, a chatbot that parses legal documents and answers questions about seed laws from 78 countries in simplified language.
+     - Supervised an undergraduate team in the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/" target="_blank">Data Science for Social Impact</a> summer program (Summer 2025). The team developed *Seedbot*, a chatbot that parses legal documents and answers questions about seed laws from 78 countries in simplified language.
 
 ---
 ### Prior to joining DSI:
