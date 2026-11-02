@@ -67,7 +67,7 @@ show-avatar: false
 </div>
 
 <p>
-  - Please find my C.V. <a href="/assets/files/CV_Sehgal.pdf" target="_blank">here</a> (updated October 2026).
+  - Please find my C.V. <a href="/assets/files/CV_Sehgal.pdf" target="_blank">here</a> (updated November 2026).
 </p>
 
 <p>You can contact me at:</p>
