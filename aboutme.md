@@ -5,21 +5,21 @@ title: About me
 
 ### My role at the Data Science Institute (DSI):
 
-
-- **Teaching**: I teach Data Science, Mathematics, and Statistics courses at both the University of Chicago and the City Colleges of Chicago.
+- **Teaching**: As Instructor of Record at UChicago, I teach courses from introductory data science to machine learning for majors, with class sizes from about 20 to 90 students. At City Colleges of Chicago, I teach statistics and mathematics, and most recently launched Olive-Harvey College's first Introduction to Data Science course. My students range from middle college students to UChicago undergraduates and advanced high school students in the Pathways in Data Science program. Syllabi and student evaluations are on my <a href="/teaching/">Teaching page</a>.
 
 - **Curriculum Development**:
-   - Co-authoring and editing University of Chicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank">textbook</a> for introductory data science course sequence: Data 118 and Data 119 (under development). Some of my work includes chapters on Neural Networks and Deep Learning, Introduction to Machine Learning, and DataFrames (in collaboration with Jesse London- Software Engineer, Data Science Institute)
-   - Collaborating with Olive-Harvey College (one of the City Colleges of Chicago) to develop and propose a data science course sequence at the community college level.
-   - Contributing to development of lab/recitation curriculum as part of a teaching research initiative examining the impact of mandatory lab components on student learning outcomes in introductory data science courses.
+   - Developed and launched the first data science course at Olive-Harvey College (City Colleges of Chicago), which I currently teach.
+   - Co-developed and taught the curriculum for Pathways in Data Science, a summer immersive program at UChicago for advanced high school students (Summer 2026).
+   - Authored chapters of UChicago's <a href="https://textbook-datascience-1-dev.vercel.app/intro.html" target="_blank"><em>Chicago Guide to Data Science</em></a>, the reference text for our introductory data science courses (DATA 118/119): <a href="https://textbook-datascience-1-dev.vercel.app/19/1/Introduction_to_Machine_Learning.html" target="_blank">Introduction to Machine Learning</a>, <a href="https://textbook-datascience-1-dev.vercel.app/24/Intro.html" target="_blank">Neural Networks and Deep Learning</a>, and <a href="https://textbook-datascience-1-dev.vercel.app/25/Intro.html" target="_blank">Tree Models</a>, plus <a href="https://textbook-datascience-1-dev.vercel.app/06/DataFrames.html" target="_blank">DataFrames</a> (co-authored with Jesse London, Software Engineer, DSI).
+   - Contributed to lab and recitation curriculum for DATA 119 as part of a teaching research initiative on the impact of mandatory labs on student learning.
 
-- **Professional Development**: Participating in ongoing professional development training with Dr. Anne Close at the City Colleges of Chicago. It is a comprehensive faculty development program focused on evidence-based and inclusive teaching practices, classroom action research, and reflective practice in preparation for a career in higher education.
+- **Professional Development**: Completed a two-year faculty development program with City Colleges of Chicago (Fall 2024 – Spring 2026) on evidence-based and inclusive teaching, classroom action research, and reflective practice. I also attend annual workshops that shape my teaching, including the National Workshop on Data Science Education at UC Berkeley and UChicago's workshop on teaching in the generative AI landscape.
 
-- **Research**: Collaborating with <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank"> Internet Innovation</a> initiative at DSI. 
+- **Research**: My research is in mathematical analysis and dynamical systems, and I also take part in applied data science projects through industry workshops such as Mathematical Problems in Industry (MPI). My publications include *Long time evolution of the Hénon-Heiles system for small energy* (Journal of Mathematical Physics, 2025, with O. Costin and R. Costin) and *On the pointwise existence of Cauchy P.V. integrals* (under review, with N. Castillo and O. Costin).
 
 - **Mentoring**:
-     - Mentoring undergraduate students through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago.  
-     - I also mentor students through DSI outreach programs, including the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program. This summer (2025), my students developed *Seedbot*, a chatbot that parses legal documents and answers questions about seed laws from 78 countries in simplified language. Their work has been accepted for poster presentation, with a paper in preparation.
+     - Mentor undergraduate students through the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, an experiential, project-based course at UChicago where student teams work on projects for nonprofit and industry partners. I have mentored teams across five quarters between Fall 2024 and Fall 2026.
+     - Supervised an undergraduate team in the <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a> summer program (Summer 2025). The team developed *Seedbot*, a chatbot that parses legal documents and answers questions about seed laws from 78 countries in simplified language.
 
 ---
 ### Prior to joining DSI:
