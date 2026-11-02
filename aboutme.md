@@ -15,7 +15,7 @@ title: About me
        - <a href="https://textbook-datascience-1-dev.vercel.app/24/Intro.html" target="_blank">Neural Networks and Deep Learning</a>,
        - <a href="https://textbook-datascience-1-dev.vercel.app/25/Intro.html" target="_blank">Tree Models</a>,
        - <a href="https://textbook-datascience-1-dev.vercel.app/06/DataFrames.html" target="_blank">DataFrames</a> (co-authored with Jesse London, Software Engineer, DSI).
-   - Contributed to lab and recitation curriculum for DATA 119 as part of a teaching research initiative on the impact of mandatory labs on student learning.
+   - Contributed to lab curriculum for DATA 119 (Introduction to Data Science II) as part of a teaching research initiative on the impact of mandatory labs on student learning.
 
 - **Professional Development**: Completed a two-year faculty development program with City Colleges of Chicago (Fall 2024 – Spring 2026) on evidence-based and inclusive teaching, classroom action research, and reflective practice. I also attend annual workshops that shape my teaching, including the National Workshop on Data Science Education at UC Berkeley and UChicago's workshop on teaching in the generative AI landscape.
 
