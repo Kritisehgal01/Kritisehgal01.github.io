@@ -8,9 +8,9 @@ permalink: /teaching/
 ### <u>As an Instructor</u>
 **The University of Chicago:** _follows the quarter system_
 
-- DATA 211: Mathematical Methods in Data Science I *(Current, Fall 2026)*: <a href="/assets/files/Syllabus_DATA_211.pdf" target="_blank">Syllabus</a>
+- DATA 211: Mathematical Methods for Data Science I *(Current, Fall 2026)*: <a href="/assets/files/Syllabus_DATA_211.pdf" target="_blank">Syllabus</a>
 - DATA 231: Machine Learning Fundamentals: Theory and Practice *(Current, Fall 2026)*: <a href="/assets/files/Syllabus_DATA_231_Fall_2026.pdf" target="_blank">Syllabus</a>
-- Pathways in Data Science Summer Immersion Program (Summer 2026): <a href="/assets/files/Syllabus_Pathways.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA 10018 30 Pathways in Data Science-Sehgal.pdf" target="_blank">Evaluations</a>
+- DATA 10018: Pathways in Data Science Summer Immersion Program (Summer 2026): <a href="/assets/files/Syllabus_Pathways.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA 10018 30 Pathways in Data Science-Sehgal.pdf" target="_blank">Evaluations</a>
 - DATA 231: Machine Learning Fundamentals: Theory and Practice (Spring 2026): <a href="/assets/files/Sehgal_Syllabus_DATA_231.pdf" target="_blank">Syllabus</a>, <a href="/assets/files/DATA231_Spring_2026.pdf" target="_blank">Evaluations</a>
 - DATA 213: Models in Data Science (Co-teaching with Prof. David Biron, Spring 2026)
 - DATA 119 Labs: Introduction to Data Science II (Spring 2026)
