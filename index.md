@@ -50,15 +50,19 @@ show-avatar: false
 
   <div class="about-text">
     <p>
-      Thank you for your interest! I am currently a Preceptor in Data Science at the
+      Thank you for your interest! I am a Preceptor in Data Science at the
       <a href="https://datascience.uchicago.edu/" target="_blank">Data Science Institute (DSI)</a>
-      at the University of Chicago. As a preceptor, I develop and teach data science curriculum at UChicago and at <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>, a community college system in Chicago. This role has allowed me to successfully teach very diverse groups of students, and to quickly adapt my teaching style to meet unique needs or backgrounds of my students.
+      at the University of Chicago. As a preceptor, I develop and teach data science curriculum at UChicago and at <a href="https://www.ccc.edu/" target="_blank">City Colleges of Chicago (CCC)</a>, a community college system in Chicago. This role has allowed me to successfully teach very diverse groups of students, and to quickly adapt my teaching style to meet unique needs of my students.
     </p>
     <p>
-      While pursuing my PhD in Mathematics, I also developed interest in studying data science. I explored the field through coursework at <a href="https://www.https://www.osu.edu/" target="_blank">Ohio State</a> and by participating in Data Science bootcamps and workshops hosted by the
+      I earned my PhD in Mathematics at <a href="https://www.osu.edu/" target="_blank">Ohio State</a>.
+  During that time I became interested in data science and explored it through coursework at Ohio State and by participating in Data Science bootcamps and workshops hosted by the
       <a href="https://www.erdosinstitute.org/" target="_blank">Erdős Institute</a>.
-      This exploration, combined with my passion for teaching, led me to my current role.
+      This exploration, combined with my passion for teaching, led me to my current <a href="https://datascience.uchicago.edu/outreach/preceptors/" target="_blank">role</a>.
     </p>
+    <p>
+  You can learn more <a href="/aboutme/">about me</a>.
+</p>
   </div>
 </div>
 
